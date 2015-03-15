@@ -1,4 +1,4 @@
-# VisualReview
+# VisualReview ![Build Status](https://api.travis-ci.org/xebia/VisualReview.svg?branch=master)
 
 VisualReview's goal is to provide a productive and human-friendly workflow for testing and reviewing your web application's layout
 across several browsers, resolutions and platforms.
